@@ -57,7 +57,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 3. Advanced Matching Algorithm
 <div align="center">
-  <img src="project_images/matching.png" alt="Matching Algorithm" width="700"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/Screenshot%202025-02-18%20111757.png" alt="Matching Algorithm" width="700"/>
 </div>
 
 - 🎯 TF-IDF vectorization
@@ -91,18 +91,18 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### Skills Analysis
 <div align="center">
-  <img src="project_images/skills_analysis.png" alt="Skills Analysis" width="800"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/Screenshot%202025-02-18%20111757.png" alt="Skills Analysis" width="800"/>
 </div>
 
 ### Candidate Comparison
 <div align="center">
-  <img src="project_images/candidate_comparison.png" alt="Candidate Comparison" width="800"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/Screenshot%202025-02-18%20111826.png" alt="Candidate Comparison" width="800"/>
 </div>
 
 ## 🏗 Architecture
 
 <div align="center">
-  <img src="project_images/architecture.png" alt="System Architecture" width="700"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/Screenshot%202025-02-18%20111848.png" alt="System Architecture" width="700"/>
 </div>
 
 ```bash
