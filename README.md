@@ -1,7 +1,7 @@
 # 🎯 Automated Resume Screening System
 
 <div align="center">
-  <img src="project_images/resume_banner.png" alt="Resume Screening Banner" width="800"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/91b78c5b-792c-4c56-9979-090793af3272%20(1).png" alt="Resume Screening Banner" width="800"/>
 </div>
 
 <div align="center">
