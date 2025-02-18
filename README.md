@@ -37,7 +37,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 1. Resume Analysis Dashboard
 <div align="center">
-  <img src="project_images/dashboard.png" alt="Analysis Dashboard" width="700"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/1738092583879.jpg" alt="Analysis Dashboard" width="700"/>
 </div>
 
 - 📊 Interactive visualizations
