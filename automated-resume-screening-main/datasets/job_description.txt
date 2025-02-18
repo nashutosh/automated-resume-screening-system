@@ -1,0 +1,30 @@
+Software Developer
+Location: St. John's;
+
+Each day our Software Developers get to work on challenging problems. No two days are the same, each day you’ll collaborate with other Software Developers to problem solve and write code that has an impact in the real world. Our product, Verafin, helps fight crime by stopping fraud and money laundering. Stopping the flow of this money means stopping crimes such as human trafficking, elder abuse, and drug trafficking. Our Software Developers get the opportunity to move around the business as there are new teams and projects developed all the time to help us towards our mission of stopping crime. Being a Software Developer at Verafin means getting the opportunity to have an impact on criminal activity by getting to do what you love – solve cool problems using code.
+
+Essential Skills & Qualifications
+A university degree or college diploma in Computer Engineering, Computer Science, or a combination of education and previous experience would be considered
+Strong analytical skills for complex and creative problem solving
+Experience in object-oriented software development       
+Automated testing
+Excellent interpersonal and organizational skills; able to work closely with team members
+Would be good to have experience in a few of the following areas
+Java
+Experience using JavaScript, CSS, REST
+Previous experience working with Core Banking Systems
+Amazon Web Services
+Intelligent systems, artificial intelligence and data science
+Distributed computing
+Database technologies (PostgresSQL)
+Big data technologies
+Data extraction, manipulation/cleansing and integration 
+
+
+Industry and on-the-job training is provided for all roles at Verafin. 
+
+​Verafin places a high value on building a diverse team, candidates of all backgrounds are encouraged to apply.
+
+Mobile devices are not supported for job applications currently. Please apply using a desktop device for the best user experience.
+
+Please note: we frequently see our jobs posted on job aggregators, which are essentially search engines for jobs. Generally those sites ask you to use their sites to apply for the posted job and they do not send us the application. As a reminder, the the only way to apply for a job with Verafin is on our site www.verafin.com/careers. We look forward to reviewing your application.
