@@ -26,11 +26,6 @@
 - [Contributing](#-contributing)
 
 ## 🎯 Overview
-
-<div align="center">
-  <img src="project_images/overview.png" alt="Project Overview" width="600"/>
-</div>
-
 The Automated Resume Screening System is an AI-powered application that revolutionizes the recruitment process by automatically analyzing and ranking resumes based on job requirements. Using advanced NLP and ML techniques, it provides detailed insights and recommendations for candidate selection.
 
 ## ✨ Features
