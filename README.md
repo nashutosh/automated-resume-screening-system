@@ -47,7 +47,7 @@ The Automated Resume Screening System is an AI-powered application that revoluti
 
 ### 2. Smart Resume Parsing
 <div align="center">
-  <img src="project_images/parsing.png" alt="Resume Parsing" width="700"/>
+  <img src="https://github.com/nashutosh/automated-resume-screening-system/blob/main/project_images/Screenshot%202025-02-18%20111725.png" alt="Resume Parsing" width="700"/>
 </div>
 
 - 📄 PDF and DOCX support
